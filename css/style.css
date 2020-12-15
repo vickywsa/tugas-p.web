@@ -1,0 +1,62 @@
+body{
+    margin: auto;
+}
+a{
+    text-decoration: none;
+}
+.nav{
+    margin-top: 0px;
+    background-color: aqua;
+    width: 100%;
+    height: 50px;
+    position: relative;
+}
+.judul{
+    float: left;
+    margin-left: 22px;
+    font-size: 20px;
+    margin-top: -10px;
+    margin-right: 20px;
+}
+.navbar{
+    float: right;
+    margin-right: 20px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.a, .b, .c{
+    margin-right: 10px;
+}
+.header{
+    position: relative;
+    background-color:;
+    width: 100%;
+    height: auto;
+}
+.isi{
+    background-color: yellow;
+    position: relative;
+    width: 100%;
+    height: auto;
+}
+/* .cs{
+    width: 500px;
+    position: absolute;
+}
+.search{
+    padding: 8px 15px;
+    background: rgba(50, 50, 50, 0.2);
+    border: 0px solid #dbdbdb;
+}
+.button {
+    position: relative;
+    padding: 6px 15px;
+    left: -8px;
+    border: 2px solid #53bd84;
+    background-color: #53bd84;
+    color: #fafafa;
+}
+.button:hover{
+    background-color: #fafafa;
+    color: #207cca;
+} */
